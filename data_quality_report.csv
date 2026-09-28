@@ -1,0 +1,13 @@
+Metric,Value
+Original Combined Rows,1067371
+Duplicate Rows Found,34335
+Duplicate Rows Removed,34335
+Final Cleaned Rows,1033036
+Dashboard Sales Rows,1003484
+Cancelled Rows,19104
+Return Rows,22496
+Invalid Price Rows,6019
+Invalid Quantity Rows,22496
+Missing Description Initially,4275
+Missing Customer ID Initially,235151
+Critical Rows Removed,0
