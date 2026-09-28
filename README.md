@@ -131,3 +131,17 @@ online-retail-analytics/
     ├── dashboard_sales.csv
     ├── cleaned_online_retail.csv
     └── data_quality_report.csv
+
+## Skills Demonstrated
+
+- Python
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- SQL
+- MySQL
+- Power BI
+- DAX
+- Data Visualization
+- Business Analysis
+- Dashboard Development
